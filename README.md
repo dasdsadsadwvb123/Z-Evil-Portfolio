@@ -90,6 +90,6 @@
 
 ## 关于我
 
-**陈昊泽** ｜ 求职方向：Unity 客户端 / 技术美术
+**陈昊泽** ｜ 求职方向：**游戏开发实习生** ｜ **U3D 客户端（AI 工具向）** ｜ 技术美术
 
 📧 [3174875570@qq.com](mailto:3174875570@qq.com) ｜ GitHub [@dasdsadsadwvb123](https://github.com/dasdsadsadwvb123)
