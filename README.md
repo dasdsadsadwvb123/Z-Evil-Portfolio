@@ -6,7 +6,7 @@
 
 > 一款 2D 像素生存恐怖游戏：一名医生在休息日遭遇丧尸狗破窗而入，为取回留在医院的半辈子医学成果，逆着逃散的人流回到已经沦陷的医院。
 
-▶ [**90 秒快速演示（B站）**](https://www.bilibili.com/video/BV1TWaq6NEjd) ｜ ▶ [完整演示 6 分钟（B站）](https://www.bilibili.com/video/BV1P8aq6cETL)
+⬇ **[下载试玩版（Windows · 57 MB）](https://github.com/dasdsadsadwvb123/Z-Evil-Portfolio/releases/latest)** ｜ ▶ [**90 秒快速演示（B站）**](https://www.bilibili.com/video/BV1TWaq6NEjd) ｜ ▶ [完整演示 6 分钟（B站）](https://www.bilibili.com/video/BV1P8aq6cETL)
 
 ## 项目简介
 
