@@ -1,6 +1,3 @@
-# Z-Evil-Portfolio
-演示视频
-[README.md](https://github.com/user-attachments/files/32716981/README.md)
 # Z-Evil
 
 > **Vibe Coding 之作** —— 设计与调试由我主导，代码实现与 AI 深度协作
